@@ -1,0 +1,26 @@
+
+<span id="nomeP">...</span>
+<img src="" id="dragonIMG">
+
+<script>
+
+    async function getBall() {
+        const url = "https://dragonball-api.com/api/characters/13";
+        try {
+          const response = await fetch(url);
+          if (!response.ok) {
+            throw new Error(`Response status: ${response.status}`);
+          }
+          const json = await response.json();
+          console.log(json);
+          console.log(json.name);
+          document.getElementById('nomeP').innerText = json.name;
+          document.getElementById('dragonIMG').src = json.image;
+        } catch (error) {
+          console.error(error.message);
+        }
+      }
+      
+      getBall(); //executa função
+
+</script>
