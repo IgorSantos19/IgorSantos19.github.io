@@ -29,26 +29,26 @@
       {
         "id": 2,
         "nome": "Podrão",
-        "preco": 10.00,
-        "imagem": "https://via.placeholder.com/128"
+        "preco": 15.00,
+        "imagem": "https://images.pexels.com/photos/28828553/pexels-photo-28828553.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
       },
       {
         "id": 6,
         "nome": "X-Aburge",
         "preco": 12.00,
-        "imagem": "https://via.placeholder.com/128"
+        "imagem": "https://images.pexels.com/photos/30204386/pexels-photo-30204386/free-photo-of-close-up-de-um-double-cheeseburger-com-bacon.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
       },
       {
         "id": 9,
         "nome": "Dogão",
         "preco": 8.00,
-        "imagem": "https://via.placeholder.com/128"
+        "imagem": "https://images.pexels.com/photos/17312405/pexels-photo-17312405/free-photo-of-placa-prato-refeicao-comida.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
       },
       {
         "id": 3,
         "nome": "Saladi Furta",
         "preco": 4.50,
-        "imagem": "https://via.placeholder.com/128"
+        "imagem": "https://images.pexels.com/photos/28271480/pexels-photo-28271480.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
       }
     ]
   }
