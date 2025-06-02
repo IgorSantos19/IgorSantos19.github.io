@@ -1,0 +1,55 @@
+{
+    "categorias": [
+      {
+        "nome": "Salgados",
+        "icone": "https://via.placeholder.com/64"
+      },
+      {
+        "nome": "Doces",
+        "icone": "https://via.placeholder.com/64"
+      },
+      {
+        "nome": "Lanches",
+        "icone": "https://via.placeholder.com/64"
+      },
+      {
+        "nome": "Salgadinhos",
+        "icone": "https://via.placeholder.com/64"
+      },
+      {
+        "nome": "Bebidas",
+        "icone": "https://via.placeholder.com/64"
+      },
+      {
+        "nome": "Outros",
+        "icone": "https://via.placeholder.com/64"
+      }
+    ],
+    "destaques": [
+      {
+        "id": 2,
+        "nome": "Podrão",
+        "preco": 10.00,
+        "imagem": "https://via.placeholder.com/128"
+      },
+      {
+        "id": 6,
+        "nome": "X-Aburge",
+        "preco": 12.00,
+        "imagem": "https://via.placeholder.com/128"
+      },
+      {
+        "id": 9,
+        "nome": "Dogão",
+        "preco": 8.00,
+        "imagem": "https://via.placeholder.com/128"
+      },
+      {
+        "id": 3,
+        "nome": "Saladi Furta",
+        "preco": 5.00,
+        "imagem": "https://via.placeholder.com/128"
+      }
+    ]
+  }
+  
