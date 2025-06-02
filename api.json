@@ -2,27 +2,27 @@
     "categorias": [
       {
         "nome": "Salgados",
-        "icone": "https://via.placeholder.com/64"
+        "icone": "https://cdn-icons-png.flaticon.com/128/8692/8692315.png"
       },
       {
         "nome": "Doces",
-        "icone": "https://via.placeholder.com/64"
+        "icone": "https://cdn-icons-png.flaticon.com/128/3173/3173443.png"
       },
       {
         "nome": "Lanches",
-        "icone": "https://via.placeholder.com/64"
+        "icone": "https://cdn-icons-png.flaticon.com/128/1139/1139556.png"
       },
       {
         "nome": "Salgadinhos",
-        "icone": "https://via.placeholder.com/64"
+        "icone": "https://cdn-icons-png.flaticon.com/128/305/305385.png"
       },
       {
         "nome": "Bebidas",
-        "icone": "https://via.placeholder.com/64"
+        "icone": "https://cdn-icons-png.flaticon.com/128/2405/2405479.png"
       },
       {
         "nome": "Outros",
-        "icone": "https://via.placeholder.com/64"
+        "icone": "https://cdn-icons-png.flaticon.com/128/1828/1828805.png"
       }
     ],
     "destaques": [
