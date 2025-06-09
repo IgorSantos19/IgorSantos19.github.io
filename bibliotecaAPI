@@ -1,0 +1,196 @@
+{
+  "livros": {
+    "Ficção": [
+      {
+        "titulo": "1984",
+        "autor": "George Orwell",
+        "ano": 1949,
+        "isbn": "978-0451524935"
+      },
+      {
+        "titulo": "O Conto da Aia",
+        "autor": "Margaret Atwood",
+        "ano": 1985,
+        "isbn": "978-0385490818"
+      },
+      {
+        "titulo": "Cem Anos de Solidão",
+        "autor": "Gabriel García Márquez",
+        "ano": 1967,
+        "isbn": "978-0307474728"
+      },
+      {
+        "titulo": "Duna",
+        "autor": "Frank Herbert",
+        "ano": 1965,
+        "isbn": "978-0441013593"
+      },
+      {
+        "titulo": "A Revolução dos Bichos",
+        "autor": "George Orwell",
+        "ano": 1945,
+        "isbn": "978-0451526342"
+      }
+    ],
+    "Não Ficção": [
+      {
+        "titulo": "Sapiens: Uma Breve História da Humanidade",
+        "autor": "Yuval Noah Harari",
+        "ano": 2011,
+        "isbn": "978-0062316097"
+      },
+      {
+        "titulo": "Educated",
+        "autor": "Tara Westover",
+        "ano": 2018,
+        "isbn": "978-0399590504"
+      },
+      {
+        "titulo": "Freakonomics",
+        "autor": "Steven D. Levitt & Stephen J. Dubner",
+        "ano": 2005,
+        "isbn": "978-0060731328"
+      },
+      {
+        "titulo": "O Andar do Bêbado",
+        "autor": "Leonard Mlodinow",
+        "ano": 2008,
+        "isbn": "978-0307275172"
+      },
+      {
+        "titulo": "O Gene: Uma História Íntima",
+        "autor": "Siddhartha Mukherjee",
+        "ano": 2016,
+        "isbn": "978-1476733524"
+      }
+    ],
+    "Ciência": [
+      {
+        "titulo": "Uma Breve História do Tempo",
+        "autor": "Stephen Hawking",
+        "ano": 1988,
+        "isbn": "978-0553380163"
+      },
+      {
+        "titulo": "Cosmos",
+        "autor": "Carl Sagan",
+        "ano": 1980,
+        "isbn": "978-0345539434"
+      },
+      {
+        "titulo": "O Universo Numa Casca de Noz",
+        "autor": "Stephen Hawking",
+        "ano": 2001,
+        "isbn": "978-0553802023"
+      },
+      {
+        "titulo": "O Gene Egoísta",
+        "autor": "Richard Dawkins",
+        "ano": 1976,
+        "isbn": "978-0198788607"
+      },
+      {
+        "titulo": "O Grande Projeto",
+        "autor": "Stephen Hawking e Leonard Mlodinow",
+        "ano": 2010,
+        "isbn": "978-0553805376"
+      }
+    ],
+    "Tecnologia": [
+      {
+        "titulo": "Código Limpo",
+        "autor": "Robert C. Martin",
+        "ano": 2008,
+        "isbn": "978-0132350884"
+      },
+      {
+        "titulo": "O Mito do Homem-Mês",
+        "autor": "Frederick P. Brooks Jr.",
+        "ano": 1975,
+        "isbn": "978-0201835953"
+      },
+      {
+        "titulo": "Algoritmos para Viver",
+        "autor": "Brian Christian e Tom Griffiths",
+        "ano": 2016,
+        "isbn": "978-1627790369"
+      },
+      {
+        "titulo": "A Era do Capitalismo de Vigilância",
+        "autor": "Shoshana Zuboff",
+        "ano": 2019,
+        "isbn": "978-1610395694"
+      },
+      {
+        "titulo": "Inteligência Artificial: Estruturas e Estratégias",
+        "autor": "George F. Luger",
+        "ano": 2005,
+        "isbn": "978-0321263183"
+      }
+    ],
+    "Autoajuda": [
+      {
+        "titulo": "O Poder do Hábito",
+        "autor": "Charles Duhigg",
+        "ano": 2012,
+        "isbn": "978-0812981605"
+      },
+      {
+        "titulo": "Como Fazer Amigos e Influenciar Pessoas",
+        "autor": "Dale Carnegie",
+        "ano": 1936,
+        "isbn": "978-0671027032"
+      },
+      {
+        "titulo": "A Sutil Arte de Ligar o F*da-se",
+        "autor": "Mark Manson",
+        "ano": 2016,
+        "isbn": "978-0062457714"
+      },
+      {
+        "titulo": "Mindset: A Nova Psicologia do Sucesso",
+        "autor": "Carol S. Dweck",
+        "ano": 2006,
+        "isbn": "978-0345472328"
+      },
+      {
+        "titulo": "Os 7 Hábitos das Pessoas Altamente Eficazes",
+        "autor": "Stephen R. Covey",
+        "ano": 1989,
+        "isbn": "978-0743269513"
+      }
+    ],
+    "História": [
+      {
+        "titulo": "Armas, Germes e Aço",
+        "autor": "Jared Diamond",
+        "ano": 1997,
+        "isbn": "978-0393317558"
+      },
+      {
+        "titulo": "A História da Riqueza do Homem",
+        "autor": "Leo Huberman",
+        "ano": 1936,
+        "isbn": "978-8535906374"
+      },
+      {
+        "titulo": "O Mundo de Ontem",
+        "autor": "Stefan Zweig",
+        "ano": 1942,
+        "isbn": "978-8535913792"
+      },
+      {
+        "titulo": "História das Guerras",
+        "autor": "John Keegan",
+        "ano": 1993,
+        "isbn": "978-0375700460"
+      },
+      {
+        "titulo": "Os Pilares da Terra",
+        "autor": "Ken Follett",
+        "ano": 1989,
+        "isbn": "978-0451225245"
+      }
+    ]
+  }
+}
