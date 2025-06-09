@@ -128,36 +128,36 @@
         "isbn": "978-0321263183"
       }
     ],
-    "NaoAutoajuda": [
+        "Filosofia": [
       {
-        "titulo": "O Poder do Hábito",
-        "autor": "Charles Duhigg",
-        "ano": 2012,
-        "isbn": "978-0812981605"
+        "titulo": "A República",
+        "autor": "Platão",
+        "ano": -380,
+        "isbn": "978-8572329043"
       },
       {
-        "titulo": "Como Fazer Amigos e Influenciar Pessoas",
-        "autor": "Dale Carnegie",
-        "ano": 1936,
-        "isbn": "978-0671027032"
+        "titulo": "Meditations",
+        "autor": "Marco Aurélio",
+        "ano": 180,
+        "isbn": "978-0486298238"
       },
       {
-        "titulo": "A Sutil Arte de Ligar o F*da-se",
-        "autor": "Mark Manson",
-        "ano": 2016,
-        "isbn": "978-0062457714"
+        "titulo": "Assim Falou Zaratustra",
+        "autor": "Friedrich Nietzsche",
+        "ano": 1883,
+        "isbn": "978-8572326134"
       },
       {
-        "titulo": "Mindset: A Nova Psicologia do Sucesso",
-        "autor": "Carol S. Dweck",
-        "ano": 2006,
-        "isbn": "978-0345472328"
+        "titulo": "Crítica da Razão Pura",
+        "autor": "Immanuel Kant",
+        "ano": 1781,
+        "isbn": "978-8525403653"
       },
       {
-        "titulo": "Os 7 Hábitos das Pessoas Altamente Eficazes",
-        "autor": "Stephen R. Covey",
-        "ano": 1989,
-        "isbn": "978-0743269513"
+        "titulo": "O Mundo como Vontade e Representação",
+        "autor": "Arthur Schopenhauer",
+        "ano": 1818,
+        "isbn": "978-8525410712"
       }
     ],
     "História": [
